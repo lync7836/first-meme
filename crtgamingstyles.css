@@ -1,0 +1,42 @@
+h1, h2, body, p{
+  text-align: center;
+  color: rgb(255, 0, 255);
+}
+
+h1{
+  font-family: Comic Sans MS;
+}
+
+h2{
+  font-family: 'Papyrus', sans-serif;
+}
+
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+
+.crt{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height: 525px;
+}
+
+body{
+  background-color: rgb(255, 255, 0);
+}
+
+.fieldset-width {
+  display: inline-block;
+  width: 25%;
+}
+.address{
+  margin-bottom: 5px;
+}
+
+.ltgkys{
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
